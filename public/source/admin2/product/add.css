@@ -1,0 +1,14 @@
+.select2-selection__choice {
+    background-color: #000!important;
+}
+
+.container_img_detail,
+.container_future_img_detail {
+    margin-top: 20px;
+}
+
+.image_detail,
+.future_image_detail {
+    width: 100%;
+    object-fit: cover;
+}
