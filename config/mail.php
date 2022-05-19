@@ -40,7 +40,7 @@ return [
             'port' => 587,
             'encryption' => 'tls',
             'username' => 'kyanhtabby22@gmail.com',
-            'password' => 'jknxrjqhcguxpxju',
+            'password' => '',
             'timeout' => null,
             'auth_mode' => null,
         ],
